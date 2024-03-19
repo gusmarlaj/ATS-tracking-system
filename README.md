@@ -32,15 +32,23 @@ streamlit run app.py
 5. Access the application via the provided URL.
 
 ## Application Features
+
 -Upload Resume: Users can upload their resumes in PDF format.
+
 -Job Description Input: Users can input the job description.
+
 -Resume Analysis: The app provides analysis of the resume based on the job description.
+
 -Percentage Match: Users can assess the percentage match of the resume with the job description.
 
 ## Dependencies
+
 Streamlit
+
 PIL
+
 pdf2image
+
 Google Generative AI
 
 ## Acknowledgements
